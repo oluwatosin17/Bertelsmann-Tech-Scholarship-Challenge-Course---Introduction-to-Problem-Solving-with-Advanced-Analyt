@@ -112,3 +112,46 @@ I would like to encourage @jessica @mercy @marina @inggita @kachukwu
 
 Good luck everyone. 
 
+## D8: #60daysofudacity 17-12-2020
+- **Things covered today**
+  * Revised lesson 3
+  * L3.17 - L3.23 ✅ 
+  * Read some materials online on p-value
+
+[Link 1](https://www.investopedia.com/terms/p/p-value.asp#:~:text=A%20p-value%20is%20a,confidence%20levels%20for%20hypothesis%20testing)  [Link 2](https://towardsdatascience.com/what-is-a-p-value-b9e6c207247f)  [Link 3](https://www.analyticsvidhya.com/blog/2019/09/everything-know-about-p-value-from-scratch-data-science/)
+
+
+I would like to encourage @bibi
+@AwesomePaul @charlotte @flora
+@katja @susyjam @axel 
+
+> You got this!!
+
+Good luck everyone. 
+
+## D9: #60daysofudacity
+- **Things covered today**
+  * Revised lesson 3
+  * L3.23 - L3.28 ✅ 
+
+- Today I looked at "Creating an Analytical Dataset" 
+- In  L1.8 - L1.14 🥁
+  * Alteryx Exercise ✅
+  * Learnt about different data sources (Excel, Database, Web based) 
+  * I used the filter tool to limit data based on a selected criteria in alteryx 
+  * Also used the summarize tool to summarize data using count and group by. 
+
+I would like to encourage @dragana
+@lorena @madalina @natalia
+@helge
+
+Keep going! 
+
+
+Good luck everyone. 
+
+
+
+
+
+
