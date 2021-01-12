@@ -129,7 +129,7 @@ I would like to encourage @bibi
 
 Good luck everyone. 
 
-## D9: #60daysofudacity
+## D9: #60daysofudacity 18-12-2020
 - **Things covered today**
   * Revised lesson 3
   * L3.23 - L3.28 ✅ 
@@ -137,6 +137,8 @@ Good luck everyone.
 - Today I looked at "Creating an Analytical Dataset" 
 - In  L1.8 - L1.14 🥁
   * Alteryx Exercise ✅
+![alteryx exercise](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/alteryx.png) 
+![alteryx exercise](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210112_145731.jpg) 
   * Learnt about different data sources (Excel, Database, Web based) 
   * I used the filter tool to limit data based on a selected criteria in alteryx 
   * Also used the summarize tool to summarize data using count and group by. 
@@ -145,8 +147,7 @@ I would like to encourage @dragana
 @lorena @madalina @natalia
 @helge
 
-Keep going! 
-
+> Keep going! 
 
 Good luck everyone. 
 
