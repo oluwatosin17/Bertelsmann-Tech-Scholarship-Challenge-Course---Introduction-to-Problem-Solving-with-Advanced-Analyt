@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2020.4">
+  <Nodes>
+    <Node ToolID="220">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="42" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="37">C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml</File>
+          <FormatSpecificOptions>
+            <ParseRoot>False</ParseRoot>
+            <OuterXML>False</OuterXML>
+            <IgnoreErrors>False</IgnoreErrors>
+            <XmlElement />
+            <ChildValues>True</ChildValues>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>transactions.xml</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Transaction" size="4" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="V_String" />
+            <Field name="Customer_ID" size="4" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="V_String" />
+            <Field name="Product_Name" size="98" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="V_WString" />
+            <Field name="Sales" size="9" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="V_String" />
+            <Field name="Order_ID" size="5" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="221">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="234" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Sales" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="222">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="138" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="Field_1" selected="True" />
+            <Field field="CustomerTransactionID" selected="True" />
+            <Field field="CustomerID" selected="True" />
+            <Field field="TransactionDate" selected="True" />
+            <Field field="AmountExcludingTax" selected="True" />
+            <Field field="TaxAmount" selected="True" />
+            <Field field="TransactionAmount" selected="True" />
+            <Field field="OutstandingBalance" selected="True" />
+            <Field field="FinalizationDate" selected="True" />
+            <Field field="IsFinalized" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Transaction" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="Int16" />
+            <Field name="Customer_ID" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="Int16" />
+            <Field name="Product_Name" size="98" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="V_WString" />
+            <Field name="Sales" size="9" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="String" />
+            <Field name="Order_ID" source="File: C:\Users\Ogrey\Videos\3\New folder (7)\New folder (3)\New folder\transactions.xml" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="223">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="318" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Order_ID" action="GroupBy" rename="Order_ID" />
+            <SummarizeField field="Sales" action="Sum" rename="Sum_Sales" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="224">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="414" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Order_ID</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2021-01-12 15:33:05</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>10080</Operand>
+              <StartDate>2021-01-12 15:33:05</StartDate>
+              <EndDate>2021-01-12 15:33:05</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Order_ID] = 10080</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="220" Connection="Output" />
+      <Destination ToolID="222" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="221" Connection="Output" />
+      <Destination ToolID="223" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="222" Connection="Output" />
+      <Destination ToolID="221" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="223" Connection="Output" />
+      <Destination ToolID="224" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="False" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>data type ex</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
