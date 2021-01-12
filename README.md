@@ -50,7 +50,11 @@ D5: #60daysofudacity
     * Lesson 3
 Alteryx Day  
     * Built my first linear regression model in alteryx 
+![Linear Regression Model](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/first%20model%20result.png) 
+![Linear Regression Model](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/first%20model%20result2.png) 
+![Linear Regression Model](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/first%20model%20result1.png) 
     * Built a sales report in alteryx  
+![Sales Report](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/sales.png) 
     * I was able to understand how to use filter and join tools in alteryx 
     * Sorting, Aggregating and Exporting Data with Alteryx ✅
 
