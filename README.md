@@ -93,3 +93,22 @@ I would like to encourage @haoma @nike @pedro @lisa @adebari
 
 Good luck everyone. 
 
+## D7: #60daysofudacity 16-12-2020
+- **Things covered today**
+  * Revised lesson 3
+  * L3.9 - L3.16 ✅ 
+
+[In this link](https://www.real-statistics.com/multiple-regression/multiple-regression-analysis/categorical-coding-regression/) I saw how to use
+data analysis tool to automate the coding of categorical variables. 
+
+- In L3.13 it was mentioned that data isn't always clean and there was a link to the course "Creating an Analytical Dataset".
+   * Today I looked at L1.1 - L1.7 
+   * Data structure and Classification ✅ 
+   * I'll go back to this after I finish lessons 4 and 5. 
+
+I would like to encourage @jessica @mercy @marina @inggita @kachukwu
+
+> Keep going!!! 
+
+Good luck everyone. 
+
