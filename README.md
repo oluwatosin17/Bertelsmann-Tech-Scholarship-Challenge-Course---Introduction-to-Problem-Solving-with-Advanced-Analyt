@@ -7,7 +7,7 @@ D1: #60daysofudacity 10-12-2020
     - Understanding data and business issues 
     - Steps used in preparing data
 
- D2 #60daysofudacity
+D2 #60daysofudacity 11-12-2020
  - **Things covered today**
     * I completed lesson 2 🥳 
     * I was able to understand the different non predictive analysis 
@@ -15,3 +15,18 @@ D1: #60daysofudacity 10-12-2020
 The quizzes were the best part!!
 
 - I also started lesson 3, the excel exercises on linear regression and multi linear regression are really nice. 🙌
+
+
+D3: #60daysofudacity 12-12-2020 
+- **Things covered today**
+   * Lesson 3
+    - ▓▓▓▓▓▓▓▓▓▓▓░░░░ 70%
+   * Linear Regression ✅
+   * Multi linear Regression ✅
+   * Dummy Variable Quiz ✅
+   * Downloaded Alteryx ✅
+
+Hopefully I'll be running my first model on alteryx tomorrow 🤞
+
+Good luck everyone.
+
