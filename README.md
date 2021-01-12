@@ -151,13 +151,14 @@ I would like to encourage @dragana
 
 Good luck everyone. 
 
-## D10: #60daysofudacity 19-10-2020
+## D10: #60daysofudacity 19-12-2020
 - **Things covered today**
    * Creating an Analytical Dataset
    * L1.15 - L1.23 ✅
    * Web scraping exercise✅
 ![web scrape](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/web12-1.png) 
- 
+   * Data types Exercise ✅
+![Data type Ex](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210112_152320.jpg) 
 - Data types - When joining tables, the fields that you join must have the same data type, Also when performing calculations the fields must be the same. 
 - Changing data types in alteryx - You can use the auto field tool to examines your data, and it  automatically optimizes the field type and length Or the select tool to manually do that. 
 
