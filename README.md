@@ -158,6 +158,7 @@ Good luck everyone.
    * Web scraping exercise✅
 ![web scrape](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/web12-1.png) 
    * Data types Exercise ✅
+![Data type](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/data%20type%20ex.png) 
 ![Data type Ex](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210112_152320.jpg) 
 - Data types - When joining tables, the fields that you join must have the same data type, Also when performing calculations the fields must be the same. 
 - Changing data types in alteryx - You can use the auto field tool to examines your data, and it  automatically optimizes the field type and length Or the select tool to manually do that. 
