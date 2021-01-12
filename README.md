@@ -53,7 +53,8 @@ Alteryx Day
 ![Linear Regression Model](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/first%20model%20result.png) 
 ![Linear Regression Model](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/first%20model%20result2.png) 
 ![Linear Regression Model](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/first%20model%20result1.png) 
-    * Built a sales report in alteryx  
+    * Built a sales report in alteryx [Sales Report](https://www.analyseup.com/learn-alteryx/alteryx-introduction.html) 
+
 ![Sales Report](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/sales.png) 
     * I was able to understand how to use filter and join tools in alteryx 
     * Sorting, Aggregating and Exporting Data with Alteryx ✅
@@ -65,5 +66,29 @@ I would like to encourage @Fareedah @Paola @prenise @yonghyun @Mrleyva
 > Keep going!!! 
 
 
+
+Good luck everyone. 
+
+
+D6: #60daysofudacity
+- **Things covered today**
+  * Lesson 3
+  * ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+  * Completed Lesson 3
+
+- My main goal today was to go through lesson 3 again to understand better. 
+     * L3.1 - L3.8 ✅ 
+- Read some materials online on how to interpret R-squared and also on correlation 
+
+- [link 1](https://www.displayr.com/8-tips-for-interpreting-r-squared/)
+- [link 2](https://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
+- [link 3](https://www.mathsisfun.com/data/correlation.html)
+
+  * **"did you know that correlation != causation"**
+
+
+I would like to encourage @haoma @nike @pedro @lisa @adebari 
+
+> Keep going!!! 
 
 Good luck everyone. 
