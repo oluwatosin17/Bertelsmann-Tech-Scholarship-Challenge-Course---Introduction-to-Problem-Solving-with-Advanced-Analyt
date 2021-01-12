@@ -26,6 +26,8 @@ D3: #60daysofudacity 12-12-2020
    * Dummy Variable Quiz ✅
    * Downloaded Alteryx ✅
 
+![Linear Regression Quiz](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210112_112052.jpg) 
+
 Hopefully I'll be running my first model on alteryx tomorrow 🤞
 
 Good luck everyone.
@@ -38,7 +40,6 @@ Focused on Alteryx
    * Data Preparation
    * Data Type Conversion
    * Cleaning Data
-
 - [I found out how to remove certain special characters with the formula tool during data cleaning](https://community.alteryx.com/t5/Alteryx-Designer-Discussions/Remove-certain-special-characters/td-p/108697) 
 - [If you just started learning alteryx like me you can check out](https://www.analyseup.com/learn-alteryx/alteryx-introduction.html) 
 
