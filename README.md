@@ -44,3 +44,22 @@ Focused on Alteryx
 - [If you just started learning alteryx like me you can check out](https://www.analyseup.com/learn-alteryx/alteryx-introduction.html) 
 
 Good luck everyone. 
+
+D5: #60daysofudacity
+- **Things covered today**
+    * Lesson 3
+Alteryx Day  
+    * Built my first linear regression model in alteryx 
+    * Built a sales report in alteryx  
+    * I was able to understand how to use filter and join tools in alteryx 
+    * Sorting, Aggregating and Exporting Data with Alteryx ✅
+
+- I probably have to go through the linear regression report again and most of lesson 3 to understand better. 
+
+I would like to encourage @Fareedah @Paola @prenise @yonghyun @Mrleyva 
+
+> Keep going!!! 
+
+
+
+Good luck everyone. 
