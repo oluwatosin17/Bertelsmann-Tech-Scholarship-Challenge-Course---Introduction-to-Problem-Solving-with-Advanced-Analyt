@@ -45,7 +45,7 @@ Focused on Alteryx
 
 Good luck everyone. 
 
-D5: #60daysofudacity
+D5: #60daysofudacity 14-12-2020
 - **Things covered today**
     * Lesson 3
 Alteryx Day  
@@ -70,7 +70,7 @@ I would like to encourage @Fareedah @Paola @prenise @yonghyun @Mrleyva
 Good luck everyone. 
 
 
-D6: #60daysofudacity
+D6: #60daysofudacity 15-12-2020
 - **Things covered today**
   * Lesson 3
   * ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
@@ -92,3 +92,4 @@ I would like to encourage @haoma @nike @pedro @lisa @adebari
 > Keep going!!! 
 
 Good luck everyone. 
+
