@@ -27,7 +27,7 @@ D3: #60daysofudacity 12-12-2020
    * Downloaded Alteryx ✅
 
 ![Linear Regression Quiz](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210112_112052.jpg) 
-
+![Dummy Variable Quiz](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210112_114125.jpg) 
 Hopefully I'll be running my first model on alteryx tomorrow 🤞
 
 Good luck everyone.
