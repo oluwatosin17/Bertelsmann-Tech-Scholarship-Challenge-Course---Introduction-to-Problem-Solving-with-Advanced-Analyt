@@ -216,6 +216,18 @@ Good luck everyone
 
 
 
+## D13: #60daysofudacity 22-12-2020
+- Today we had a session on browse tool #sg_discover_alteryx ! We learnt a lot about the browse tool especially profiling functionality. 
+- Far more than just a window to your data, the browse tool  has a list of features to best investigate, view and copy data at any point. 
+ 
+**Thanks for your time @Jonathan**
+
+- I would like to encourage @maria @ismat @thuy @graysh @AwesomePaul @agnes  
+> Keep going 
+
+Good luck everyone
+
+
 
 
 
