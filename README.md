@@ -198,7 +198,8 @@ Good luck everyone
   * Dirty data exercise✅
   * Deduping exercise✅
 ![deduping exercise](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210113_145743.jpg) 
-  * Cleaning up data
+![deduping exercise](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Deduping%20Exercise.png) 
+* Cleaning up data
   * Finding extra characters in fields this could be $€£¥ symbols or numbers signs we need to remove this before changing between field types. 
   * We can remove extra characters with the replace function left function within the formula tool
 
