@@ -236,7 +236,7 @@ Good luck everyone
   * First of all you need to identify the missing data. 
 - Why we care about missing data 
 
-[Missing data can add bias](https://en.m.wikipedia.org/wiki/Sampling_bias to a model) 
+[Missing data can add bias to a model](https://en.m.wikipedia.org/wiki/Sampling_bias) 
 
 [Read about how to deal with missing data online](https://www.mastersindatascience.org/learning/how-to-deal-with-missing-data/#:~:text=When%20dealing%20with%20data%20that,or%20factors%20may%20be%20required.) 
 
