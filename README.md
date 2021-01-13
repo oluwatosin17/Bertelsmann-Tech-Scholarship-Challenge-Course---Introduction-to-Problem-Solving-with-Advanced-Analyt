@@ -301,7 +301,7 @@ Good luck everyone.
 
 ## D17: #60daysofudacity 26-12-2020
 - **Things covered today**
-[Creating an Analytical Dataset](https://classroom.udacity.com/courses/ud977/lessons/56630bff-890b-4f55-ab05-26c65eafc4f0/concepts/3c36b7ff-a59a-4e38-a987-881ec4cc22e0) 
+- [Creating an Analytical Dataset](https://classroom.udacity.com/courses/ud977/lessons/56630bff-890b-4f55-ab05-26c65eafc4f0/concepts/3c36b7ff-a59a-4e38-a987-881ec4cc22e0) 
    * L2.33 - L2. 42✅
    * Effect of Outliers - Exercise✅
    * Outliers Quiz 1✅
