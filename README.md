@@ -251,12 +251,27 @@ who’s excited and ready for the holiday? 🎄❤️
 * Good luck everyone 
 
 
+## D15: #60daysofudacity 24-12-2020
+- **Things covered today**
+    * Creating an Analytical Dataset https://classroom.udacity.com/courses/ud977/lessons/56630bff-890b-4f55-ab05-26c65eafc4f0/concepts/3c36b7ff-a59a-4e38-a987-881ec4cc22e0 
+    * L2.21 - L2.24✅
+    * Deleting Missing Data  Deletion Exercise 2✅
+    * Learnt how to use some new tools like the scatter plot tool the field summary tool and the count record tool. 
+
+- One thing I noticed was that when I removed the null records the slope line decreased I'll be reading more on how to interpret scatter-plot. 
+
+I hope you feel better tomorrow @bibi
+
+- I would like to encourage @prenise @Rachel_Kam @frida @Ayman @Avinash @jennifer @laila @anita @eman @elizabeth 
+
+> If you are seeing this, this is a reminder that you are amazing! Life can be hard sometimes, but you have managed to make it this far, and that is amazing! I know you can keep going! Remember to be nice to yourself. Happy holidays ♡
 
 
+Merry Christmas 🤶🎄🎅🌲🎁 ?
+Stay safe and enjoy the holidays!
 
 
-
-
+ 
 
 
 
