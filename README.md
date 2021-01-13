@@ -191,6 +191,31 @@ Good luck everyone.
 Good luck everyone
 
 
+## D12: #60daysofudacity 21-12-2020
+- **Things covered today**
+  * Creating an Analytical Dataset
+  * L2.8 - L2.15✅
+  * Dirty data exercise✅
+  * Deduping exercise✅
+  * Cleaning up data
+  * Finding extra characters in fields this could be $€£¥ symbols or numbers signs we need to remove this before changing between field types. 
+  * We can remove extra characters with the replace function left function within the formula tool
+
+- Duplicate data 
+  * Using group by and count functions within the summarize tool to identify the duplicated data. 
+  * We can also use the unique tool to do this. 
+
+- I would like to encourage @ella @sara @Frida @annika @luisa
+
+> You're great so far well done 
+
+Good luck everyone
+
+
+
+
+
+
 
 
 
