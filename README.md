@@ -273,6 +273,38 @@ I hope you feel better tomorrow @bibi
 Merry Christmas 🤶🎄🎅🌲🎁 ?
 Stay safe and enjoy the holidays!
 
+## D16: #60daysofudacity
+- **Things covered today**
+
+[Creating an Analytical Dataset](https://classroom.udacity.com/courses/ud977/lessons/56630bff-890b-4f55-ab05-26c65eafc4f0/concepts/3c36b7ff-a59a-4e38-a987-881ec4cc22e0) 
+    * L2.25 - L2. 32✅
+    * Dealing with Missing Data - Imputation Exercise✅
+-Learnt how to use the append field tool also learnt about the average ignore 0's in the summarize tool 
+
+[append field](https://help.alteryx.com/current/designer/append-fields-tool#:~:text=Use%20the%20Append%20Fields%20tool,every%20row%20of%20another%20table) 
+
+[Ignoring NULLS](https://community.alteryx.com/t5/Alteryx-Designer-Ideas/Average-Ignoring-Nulls/idi-p/20983) 
+ 
+- What to consider when dealing with missing data. 
+  * How much data is missing 
+  * How the missing data is distributed. 
+
+I would like to encourage
+@monika @anita @rose @katja @Dongyeun @vedanth @michelle 
+@Frida @Avinash @kachukwu @daniel
+
+> Keep going!!
+
+
+Good luck everyone.
+
+
+
+
+
+
+ 
+
 
  
 
