@@ -253,9 +253,10 @@ who’s excited and ready for the holiday? 🎄❤️
 
 ## D15: #60daysofudacity 24-12-2020
 - **Things covered today**
-    * Creating an Analytical Dataset https://classroom.udacity.com/courses/ud977/lessons/56630bff-890b-4f55-ab05-26c65eafc4f0/concepts/3c36b7ff-a59a-4e38-a987-881ec4cc22e0 
+    * [Creating an Analytical Dataset](https://classroom.udacity.com/courses/ud977/lessons/56630bff-890b-4f55-ab05-26c65eafc4f0/concepts/3c36b7ff-a59a-4e38-a987-881ec4cc22e0) 
     * L2.21 - L2.24✅
     * Deleting Missing Data  Deletion Exercise 2✅
+![Deletion](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Dealing%20With%20Missing%20Data%20Deletion%20Exercise%202.png) 
     * Learnt how to use some new tools like the scatter plot tool the field summary tool and the count record tool. 
 
 - One thing I noticed was that when I removed the null records the slope line decreased I'll be reading more on how to interpret scatter-plot. 
