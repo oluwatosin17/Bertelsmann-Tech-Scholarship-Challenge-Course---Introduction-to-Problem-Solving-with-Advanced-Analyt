@@ -305,7 +305,11 @@ Good luck everyone.
    * L2.33 - L2. 42✅
    * Effect of Outliers - Exercise✅
    * Outliers Quiz 1✅
-   * Outliers Quiz 2✅
+![Outliers](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Outlier1.png) 
+![Outliers](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Outlier.png) 
+![Outliers](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210113_180833.jpg) 
+
+  * Outliers Quiz 2✅
  
 - Also today we had a session on input data tool 
 [input tool](https://help.alteryx.com/current/designer/input-data-tool) 
