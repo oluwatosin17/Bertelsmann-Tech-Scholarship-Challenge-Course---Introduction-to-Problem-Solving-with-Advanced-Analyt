@@ -197,6 +197,7 @@ Good luck everyone
   * L2.8 - L2.15✅
   * Dirty data exercise✅
   * Deduping exercise✅
+![deduping exercise](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210113_145743.jpg) 
   * Cleaning up data
   * Finding extra characters in fields this could be $€£¥ symbols or numbers signs we need to remove this before changing between field types. 
   * We can remove extra characters with the replace function left function within the formula tool
