@@ -173,6 +173,27 @@ I would like to encourage
 Good luck everyone.
 
 
+## D11: #60daysofudacity 20-12-2020
+- **Things covered today**
+   * Creating an Analytical Dataset
+   * L2.1 - L2.7 ✅
+   * Dirty data - can contain spelling / punctuation errors incorrect data associated with a field duplicated data
+   * Parsing data in alteryx with the text to column tool
+   * Parsing data using delimiters
+   * The importance of skip empty columns when using multiple delimiters
+
+
+- I would like to encourage @florin @prima @mina @candy @eze 
+
+> You got this!!
+
+Good luck everyone
+
+
+
+
+
+
 
 
 
