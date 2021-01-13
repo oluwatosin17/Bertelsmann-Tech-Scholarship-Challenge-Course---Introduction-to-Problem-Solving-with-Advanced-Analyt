@@ -196,6 +196,7 @@ Good luck everyone
   * Creating an Analytical Dataset
   * L2.8 - L2.15✅
   * Dirty data exercise✅
+![dirty data](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/dirty-data-exercise.png) 
   * Deduping exercise✅
 ![deduping exercise](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Screenshot_20210113_145743.jpg) 
 ![deduping exercise](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Deduping%20Exercise.png) 
