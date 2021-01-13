@@ -179,6 +179,7 @@ Good luck everyone.
    * L2.1 - L2.7 ✅
    * Dirty data - can contain spelling / punctuation errors incorrect data associated with a field duplicated data
    * Parsing data in alteryx with the text to column tool
+![Parsing Exercise](https://github.com/oluwatosin17/Bertelsmann-Tech-Scholarship-Challenge-Course---Introduction-to-Problem-Solving-with-Advanced-Analyt/blob/main/Images/Parsin%20Exercise.png) 
    * Parsing data using delimiters
    * The importance of skip empty columns when using multiple delimiters
 
