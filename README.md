@@ -227,7 +227,7 @@ Good luck everyone
 
 Good luck everyone
 
-## D14: #60daysofudacity
+## D14: #60daysofudacity 23-12-2020
 - **Things covered today**
 - [Creating an Analytical Dataset](https://classroom.udacity.com/courses/ud977/lessons/56630bff-890b-4f55-ab05-26c65eafc4f0/concepts/3c36b7ff-a59a-4e38-a987-881ec4cc22e0) 
    * L2.17 - L2.20✅
@@ -235,7 +235,8 @@ Good luck everyone
 - What an analyst needs to do when faced with missing data 
   * First of all you need to identify the missing data. 
 - Why we care about missing data 
-- [Missing data can add bias](https://en.m.wikipedia.org/wiki/Sampling_bias to a model) 
+
+[Missing data can add bias](https://en.m.wikipedia.org/wiki/Sampling_bias to a model) 
 
 [Read about how to deal with missing data online](https://www.mastersindatascience.org/learning/how-to-deal-with-missing-data/#:~:text=When%20dealing%20with%20data%20that,or%20factors%20may%20be%20required.) 
 
